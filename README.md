@@ -207,3 +207,4 @@ loadTasks();
 
 ```
 ## output
+![image](https://github.com/kaviyabalaji/to-do/blob/main/Screenshot%202024-07-08%20111908.png)
